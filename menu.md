@@ -5,5 +5,6 @@ Pizze:
 -Pizza Capricciosa
 Primi:
 -Bucatini alla matriciana
+-Spaghetti alla carbonara
 
 Pizzeria Bella Napoli
