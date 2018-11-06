@@ -1,6 +1,7 @@
 1143080
 Menù:
-Pizza Margherita
-Pizza Capricciosa
+Pizze:
+-Pizza Margherita
+-Pizza Capricciosa
 
 Pizzeria Bella Napoli
